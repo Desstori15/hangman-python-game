@@ -1,0 +1,13 @@
+python
+hangman
+developer
+console
+variable
+function
+loop
+program
+keyboard
+debug
+game
+java
+music
